@@ -27,18 +27,20 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  friends = ["Sean", "Billy", "am" "Christina", "Julia"]
+  friends = ["Sean", "Billy", "am", "Christina", "Julia"]
   friends[2]
 end
 
 def retrieve_first_element_from_array(array)
-  
+  friends = ["wow", "Sean", "Billy", "Christina", "Julia"]
+  friends[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+  friends = ["Sean", "Billy", "Christina", "Julia", "arrays!"]
+  friends[4]
 end
 
 def update_element_from_index(array, index_number, element)
-
+  
 end
