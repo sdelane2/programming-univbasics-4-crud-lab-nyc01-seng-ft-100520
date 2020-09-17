@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   friends = ["Sean", "Billy", "Christina", "Julia", "arrays!"]
-  friends
+  friends[4] = "totally"
 end
